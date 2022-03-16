@@ -1,0 +1,31 @@
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+</style>
+
+
+<i class="fa fa-th-large" aria-hidden="true"></i>
+<i class="fa fa-user" aria-hidden="true"></i>
+<i class="fa fa-envelope" aria-hidden="true"></i>
+
+<i class="fa fa-facebook-official" aria-hidden="true"></i>
+<i class="fa fa-instagram" aria-hidden="true"></i>
+<i class="fa fa-snapchat" aria-hidden="true"></i>
+<i class="fa fa-pinterest-p" aria-hidden="true"></i>
+<i class="fa fa-twitter" aria-hidden="true"></i>
+<i class="fa fa-linkedin" aria-hidden="true"></i>
+
+<i class="fa fa-diamond" aria-hidden="true"></i>
+<i class="fa fa-picture-o" aria-hidden="true"></i>
+<i class="fa fa-map-pin" aria-hidden="true"></i>
+
+<i class="fa fa-download" aria-hidden="true"></i>
+
+<i class="fa fa-envelope" aria-hidden="true"></i>
+<i class="fa fa-map-marker" aria-hidden="true"></i>
+<i class="fa fa-phone" aria-hidden="true"></i>
+
+<i class="fa fa-paper-plane" aria-hidden="true"></i>
+

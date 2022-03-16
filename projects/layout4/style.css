@@ -1,0 +1,31 @@
+.background-color
+{
+	background-color: #f44336;
+}
+.row a.active
+{
+	background-color: white;
+	color: black!important;
+}
+.row a:hover
+{
+	background-color: white;
+	color: black!important;
+}
+.row .color
+{
+	color: red;
+}
+.row .color1
+{
+	background-color: #f44336;
+	color: white;
+}
+.row .background
+{
+	background-color: #f1f1f1;
+}
+.background-footer
+{
+	background-color: #f1f1f1;
+}

@@ -1,0 +1,22 @@
+.background1
+{
+	background-color: #414fff
+}
+.backgroundimage
+{
+	background-image: url("https://demo.kallyas.net/medical/wp-content/uploads/sites/18/2017/05/pattern2_lq-1.png");
+	background-repeat: repeat; 
+	background-position: left;
+}
+.box
+{
+	width: 100%;
+}
+.background2
+{
+	background-image: url(img/thumb02.jpg);
+}
+.color4
+{
+	color: #bfbebe;
+}
