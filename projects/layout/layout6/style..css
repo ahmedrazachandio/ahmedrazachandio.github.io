@@ -1,0 +1,117 @@
+.setimage
+{
+	margin: 0px 265px;
+	padding: 15px 30px;
+}
+.logoimg
+{
+	padding-left: 130px;
+
+
+}
+.float
+{
+	float: right;
+	padding-top: 10px;
+	padding-right: 130px;
+
+}
+.setnav1
+{
+	margin-left: 300px;
+}
+.margin
+{
+	margin-left: 250px;
+	color: #5b8191 !important;
+	font-weight: bold;
+}
+li a{
+	color: #5b8191 !important;
+	font-size: 14px;
+	padding: 10px 20px 0px 20px !important;
+}
+li a:hover{
+	text-decoration: underline;
+}
+section img{
+	height: 600px;
+	margin-top: 10px;
+}
+.font
+{
+	font-size: 26px;
+	color: #50748a;
+	margin-top: 20px;
+}
+.font1
+{
+	font-size: 16.5px;
+    line-height: 28.5px;
+	margin-top: 20px;
+}
+.image
+{
+	margin-left: 20 !important;
+}
+.margin1
+{
+	margin-left: 70px;
+}
+.parara
+{
+	font-size: 14px;
+	line-height: 25px;
+}
+
+
+.site-footer
+{
+  background-color:#50748a;
+  font-size:12px;
+  line-height:24px;
+  color:white;
+  padding-top: 50px;
+}
+.site-footer h6
+{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+}
+.fontsize
+{
+	font-size: 25px !important;
+}
+.button {
+  background-color: #e6e6e6; 
+  border: none;
+  color: dark;
+  padding: 9px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+.button a
+{
+	text-decoration: none;
+	color: black;
+
+}
